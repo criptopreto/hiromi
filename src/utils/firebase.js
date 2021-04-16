@@ -20,6 +20,5 @@ firebase.firestore().settings({
 }*/
 
 firebase.firestore().enablePersistence();
-firebase.analytics();
 
 export default firebase;

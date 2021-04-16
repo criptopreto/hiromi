@@ -2,8 +2,9 @@ import React from "react";
 import Bulding from "./images/bulding.webp";
 import logo from "./logo.svg";
 import "./App.css";
-
+import firebase from "./utils/firebase";
 function App() {
+  firebase.analytics();
   return (
     <div
       className="h-screen pb-2 bg-right bg-cover bg-fixed bg-hiromi"
