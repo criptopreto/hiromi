@@ -8,7 +8,7 @@ function App() {
     <div
       className="h-screen pb-2 bg-right bg-cover bg-fixed bg-hiromi"
       style={{
-        backgroundImage: `url("https://firebasestorage.googleapis.com/v0/b/hiromito-go.appspot.com/o/header.webp?alt=media&token=11a8248a-bd78-45a9-a22d-ea3947f14b90")`,
+        backgroundImage: `url("https://hiromitogo.com/images/header.webp")`,
       }}
     >
       <div className="h-full flex flex-col justify-between">
